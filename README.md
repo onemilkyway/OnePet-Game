@@ -23,7 +23,7 @@ Players can adopt and care for digital pets, complete daily missions, and earn t
 ---
 
 ## 🎥 Demo Video
-https://drive.google.com/drive/folders/1xphvmuTJ3Az-UN0IMyFVEoNY5XBpRWYI?usp=drive_link
+http://bit.ly/4hlt8ht
 
 ---
 
