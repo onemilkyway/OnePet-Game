@@ -4,7 +4,7 @@
 Each cat is an **on-chain NFT** with unique traits, enabling players to truly own, trade, and interact with their digital pets.
 
 > 🎯 Built for **OneHack 2025** — OneChain’s Web3 hackathon series.  
-> Author: [Milky Way](https://github.com/onemilkyway)  
+> Author: [One Milky Way](https://github.com/onemilkyway)  
 > Solo Submission
 
 ---
